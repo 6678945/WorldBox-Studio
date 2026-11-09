@@ -56,3 +56,13 @@ WorldBox 0.51 + NeoModLoader 的可视化模组编辑器，Windows x64 独立版
 - 编辑器只读游戏与 NML 文件；部署模组前需要确认。
 - 编译通过不等于游戏内玩法验收，发布模组前建议做纯净测试。
 - 本仓库只发布编辑器产品包；源码/插件开发目录不在本仓库。
+## 源代码（V12.14.1）
+
+协作者 / 开发者可下载与正式版对应的源代码包：
+
+https://github.com/6678945/WorldBox-Studio/releases/download/v12.14.1/WorldBoxStudio-V12.14.1-source.zip
+
+- 解压后包含 editor / generator / knowledge / tools / plugin.manifest.json
+- 不含当前开发中的半成品代码
+- 不含 Electron 外壳源码
+- 请在自己的分支修改，测试后再合并
